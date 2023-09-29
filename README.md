@@ -128,30 +128,6 @@ make menuconfig
 * 游戏规则 [SSTap-Rule](https://github.com/FQrabbit/SSTap-Rule) by [FQrabbit](https://github.com/FQrabbit)
 * 流媒体解锁检测 [RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) by [lmc999](https://github.com/lmc999)
 
-请作者喝杯咖啡
----
-
-* PayPal
-<p align="left">
-    <a href="https://ko-fi.com/vernesong"><img width="300" src="https://www.ko-fi.com/img/githubbutton_sm.svg"> </a>
-</p>
-
-* USDT-TRC20
-<p align="left">
-    <img width="300" src="https://github.com/vernesong/OpenClash/raw/master/img/USDT-Wallet.png">
-</p>
-
-* 比特币-BTC
-<p align="left">
-    <img width="300" src="https://github.com/vernesong/OpenClash/raw/master/img/BTC-Wallet.png">
-</p>
-
-* 以太币-ETH
-<p align="left">
-    <img width="300" src="https://github.com/vernesong/OpenClash/raw/master/img/ETH-Wallet.png">
-</p>
-
-
 预览
 ---
 
